@@ -1,5 +1,8 @@
 <?php
 
+$access_token = 'P16B/i7iP6NyxMmL2cDfXPeOy0n0V3KrqBXcs1cVSpQ+IZVCs8aajyDbB/JlctMyACPrQ+T30KvpfDdYQNs+SQYxDb1ew5Hg1i8eERvgWBJVM8vPqlPrUpqkVB366JNWUp+lHe4Mqu0qvAynWAR/aQdB04t89/1O/w1cDnyilFU=';
+$proxy = 'http://fixie:FWwieAEjnTaoGI4@velodrome.usefixie.com:80';
+$proxyauth = 'http://fixie:FWwieAEjnTaoGI4@velodrome.usefixie.com:80';
 /**
  * Copyright 2016 LINE Corporation
  *
